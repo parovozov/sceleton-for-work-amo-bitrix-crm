@@ -1,0 +1,12 @@
+{
+	"widget": {
+		"name": "widget.name",
+		"description": "widget.description",
+		"short_description": "widget.short_description",
+		"code": "AddContact",
+		"secret_key": "zt0mkvPcRTECQGLuE7ol1EIAyN5CbWgGeITxDNf1oAZzUJcxIW5VXvcbOIbdlAhO",
+		"version": "1.0.0",
+		"locale": ["ru","en"],
+		"installation": true
+	}
+}
